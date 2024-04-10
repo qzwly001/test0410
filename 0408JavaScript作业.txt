@@ -1,3 +1,4 @@
+0410我修改了内容
 0408JavaScript作业	技能提高操作
 作业1
 1）定义以下对象test1， 根据对象内的变量sortType值,按照价格goods_price进行排序操作，
